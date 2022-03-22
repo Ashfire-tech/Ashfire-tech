@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ashfire-tech, I'm a thirteen year old coder.
 - 👀 I want to one day, make my own video games.
-- 🌱 I’m currently learning Javascript and Swift.
+- 🌱 I’m currently learning Javascript.
 
 <!---
 Ashfire-tech/Ashfire-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
