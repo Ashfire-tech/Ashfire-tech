@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ashfire-tech, I'm a fourteen year old coder.
+- 👋 Hi, I’m @Ashfire-tech, I'm a fifteen year old coder.
 - 👀 I want to one day, make my own video games and maybe robots.
 - 🌱 I’m currently learning Javascript.
 
